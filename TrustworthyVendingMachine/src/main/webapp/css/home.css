@@ -1,0 +1,201 @@
+li {
+    list-style-type: none;
+}
+
+.bodyDiv,
+.bodyDiv2 {
+    margin-top: 20px;
+}
+
+body {
+    background-image: url(background.jpg);
+    background-repeat: repeat;
+    background-size: 100%;
+    font-size: 200%;
+    font-family: 'Black Ops One', cursive;
+}
+
+.cola-image{
+    background-size: 100%;
+}
+
+div {
+    margin-bottom: 5px;
+    color: white;
+}
+
+h1 {
+    font-family: 'Black Ops One', cursive;
+}
+
+#mainTitle {
+    font-size: 45px;
+}
+
+select:required:invalid {
+    color: gray;
+}
+
+option {
+    color: black;
+}
+
+.white {
+    color: white;
+}
+
+th {
+    color: black;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: black medium solid;
+    border-spacing: 5px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.btn-custom {
+    color: #FFF;
+    background-color: #7C5FA3;
+    border-color: #FFFFFF;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+}
+
+#total-display {
+    width: 180px;
+    height: 40px;
+    border-color: #FFF;
+    text-align: center;
+    border: 1px solid white;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    padding-top: 5px;
+}
+
+#total-require {
+    width: 300px;
+    height: 40px;
+    border-color: #FFF;
+    text-align: center;
+    border: 1px solid white;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    padding-top: 5px;
+}
+
+#qty-box {
+    text-align: center;
+}
+
+#itemHead {
+    text-align: right;
+}
+
+#qty-display {
+    width: 100px;
+    background-color: black;
+}
+
+.btn-purchase {
+    color: #FFF;
+    background-color: #7C5FA3;
+    border-color: #FFFFFF;
+    width: 180px;
+    height: 34px;
+    text-align: center;
+}
+
+#change-display #change {
+    width: 230px;
+    height: 110px;
+    border-color: #FFF;
+    text-align: center;
+    border: 1px solid white;
+    margin: 0 auto;
+}
+
+#item-display {
+    width: 200px;
+    height: 30px;
+    border-color: #FFF;
+    text-align: center;
+    border: 1px solid white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+
+a:hover {
+    background-color: #4CAF50;
+    /* Green */
+    color: white;
+}
+
+#btn-quarter {
+    margin: 0 auto;
+    display: block;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: 1px solid;
+    background-image: url(quarter.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#btn-dollar {
+    margin: 0 auto;
+    display: block;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    border: 1px solid;
+    background-image: url(dollar.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#btn-dime {
+    margin: 0 auto;
+    display: block;
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    border: 1px solid;
+    background-image: url(dime.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#btn-nickel {
+    margin: 0 auto;
+    display: block;
+    height: 63px;
+    width: 63px;
+    border-radius: 50%;
+    border: 1px solid;
+    background-image: url(nickel.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#refund-button{
+    margin-top: 5px;
+    color: #FFF;
+    background-color: #7C5FA3;
+    border-color: #FFFFFF;
+    width: 80px;
+    height: 34px;
+    text-align: center;
+}

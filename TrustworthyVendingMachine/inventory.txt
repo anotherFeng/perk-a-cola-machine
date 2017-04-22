@@ -1,0 +1,9 @@
+1::Who's Who::2.00::9::
+2::DT Root Beer::1.50::8::
+3::Deadshot Daiquiri::2.00::0::
+4::PhD Flopper::2.75::9::
+5::Stamin-Up::2.00::9::
+6::Mule Kick::4.00::2::
+7::Vulture Aid Elixer::2.50::9::
+8::Der Wunderfizz::2.75::8::
+9::Widow's Wine::4.00::9::
